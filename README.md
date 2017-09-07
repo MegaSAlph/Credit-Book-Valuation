@@ -6,7 +6,7 @@ The task is completed using a python notebook and a number of commonly-used data
 
 If you do not already have Anaconda download and install it (https://www.continuum.io/downloads). Launch a Jupyter Notebook (either from Anaconda Navigator if you have it installed or from the terminal or command prompt with the command jupyter notebook).
 
-Download data_science_task.ipynb and data_science_task.csv on 
+Download data_science_task.ipynb and data_science_task.csv (https://github.com/MegaSAlph/Credit-Book-Valuation/find/master)
 Import the supplied ipython notebook i.e data_science_task.ipynb into the notebook.
 Import the supplied comma-separated data file i.e data_science_task.csv into the notebook.
 
